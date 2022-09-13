@@ -104,3 +104,30 @@ h1{
     font-size: small;
     padding: 5px;
 }
+
+.cross{
+    color: red;
+    border-color: red;
+}
+
+.recruiting{
+    color: white;
+    background-color: #B0C926;
+    margin-left: 10px;
+    height: 20px;
+    width: 40px;
+    border-radius: 10px;
+    font-size: small;
+    padding: 5px;
+}
+
+.mobile{
+    color: white;
+    background-color: #F29E33;
+    margin-left: 10px;
+    height: 20px;
+    width: 40px;
+    border-radius: 10px;
+    font-size: small;
+    padding: 5px;
+}
