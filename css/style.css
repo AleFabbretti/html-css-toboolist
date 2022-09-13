@@ -55,12 +55,12 @@ h1{
 }
 
 h1{
-    padding: 30px 0px 0px 0px;
+    padding: 25px 0px 0px 0px;
     display: inline-block;
 }
 
 .triangolo{
-    
+    padding-top: 40px;
 }
 
 .cerchio{
@@ -84,11 +84,23 @@ h1{
 }
 
 .editorial{
+    color: white;
     background-color: #45ABEA;
     margin-left: 10px;
     height: 20px;
     width: 50px;
-    border-radius: 5px;
+    border-radius: 10px;
+    font-size: small;
+    padding: 5px;
+}
+
+.q1{
+    color: white;
+    background-color: #9C72E4;
+    margin-left: 10px;
+    height: 20px;
+    width: 50px;
+    border-radius: 10px;
     font-size: small;
     padding: 5px;
 }
