@@ -27,4 +27,9 @@ h1{
     background-color: lightgray;
     max-width: 800px;
     margin: auto;
+    padding-left: 50px;
+}
+
+.bottoni{
+    display: inline-block;
 }
