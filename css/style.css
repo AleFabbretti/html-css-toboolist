@@ -25,12 +25,13 @@ header{
 }
 
 .container{
-    background-color: lightgrey;
+    background-color: whitesmoke;
     max-width: 800px;
     margin: auto;
     padding-left: 50px;
     margin-top: 50px;
     padding-bottom: 50px;
+    border-radius: 5px;
 }
 
 .bottoni{
@@ -54,6 +55,12 @@ header{
     border-radius: 5px;
     border-color: lightgray;
     box-shadow: #F6F8F9;
+}
+
+hr{
+    border: 0;
+    height: 1px;
+    background-color: ;
 }
 
 h1{
